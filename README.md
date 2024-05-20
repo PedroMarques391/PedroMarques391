@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Marques</h1>
 <h2 align="center">Front-end Developer</h2>
-<h3 align="left">Desenvolvedor front-end apaixonado por transformar ideias em interfaces incríveis, sempre disposto a aprender e evoluir.</h3>
+<h3 align="left">Desenvolvedor front-end apaixonado em transformar ideias em interfaces incríveis, sempre disposto a aprender e evoluir.</h3>
 
 - 🌱 Currently learning **React Native, golang**
 
@@ -19,7 +19,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
- <div style="display: inline_block"><br>
+ <h2 style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,11 +27,10 @@
   <img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-   
-</div>
+</h2>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromarques391&show_icons=true&locale=en&layout=compact" alt="pedromarques391" /></p>
+<p><img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromarques391&show_icons=true&locale=en&layout=compact" alt="pedromarques391" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromarques391&show_icons=true&locale=en" alt="pedromarques391" /></p>
+<p>&nbsp;<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=pedromarques391&show_icons=true&locale=en" alt="pedromarques391" /></p>
