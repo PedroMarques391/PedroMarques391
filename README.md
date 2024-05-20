@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-<a href="https://x.com/pedromarques391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-x.svg" alt="pedromarques391" height="30" width="40" /></a>
+<a href="https://x.com/pedromarques391" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"" alt="pedromarques391" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pedromarques391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedromarques391" height="30" width="40" /></a>
 <a href="https://instagram.com/pedromarques.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedromarques.py" height="30" width="40" /></a>
 </div>
