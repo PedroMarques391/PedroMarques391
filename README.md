@@ -33,4 +33,4 @@
 
 <p><img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromarques391&show_icons=true&locale=en&layout=compact" alt="pedromarques391" /></p>
 
-<p>&nbsp;<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=pedromarques391&show_icons=true&locale=en" alt="pedromarques391" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromarques391&show_icons=true&locale=en" alt="pedromarques391" /></p>
