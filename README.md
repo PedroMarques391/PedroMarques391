@@ -1,12 +1,24 @@
-### Olá!! Eu sou o Pedro Marques!
+<h1 align="center">Hi 👋, I'm Pedro Marques</h1>
+<h2 align="center">Front-end Developer</h2>
+<h3 align="left">Desenvolvedor front-end apaixonado por transformar ideias em interfaces incríveis, sempre disposto a aprender e evoluir.</h3>
 
-<div align="center">
-  <a href="https://github.com/PedroMarques391">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroMarques391&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarques391&layout=compact&langs_count=7&theme=dark"/>
+- 🌱 Currently learning **React Native, golang**
+
+- 👨‍💻 All of my projects are available at [https://pedromarques391.github.io/portfolio/](https://pedromarques391.github.io/portfolio/)
+
+- 💬 Ask me about **JavaScript, React, TailwindCSS, Golang**
+
+<h3 align="left">Skills</h3>
+<p align="left">TYPESCRIPT / REACT.JS / TAILWINDCSS / NEXT.JS / NODE.JS</p>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+<a href="https://x.com/pedromarques391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-x.svg" alt="pedromarques391" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedromarques391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedromarques391" height="30" width="40" /></a>
+<a href="https://instagram.com/pedromarques.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedromarques.py" height="30" width="40" /></a>
 </div>
 
-  
+<h3 align="left">Languages and Tools:</h3>
  <div style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,20 +27,11 @@
   <img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  
-  
+   
 </div>
 
-<br>
- 
-<div> 
-  <a href="https://instagram.com/pedromarques.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/pedromarques391/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
-# #
-    
- 
- 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromarques391&show_icons=true&locale=en&layout=compact" alt="pedromarques391" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromarques391&show_icons=true&locale=en" alt="pedromarques391" /></p>
