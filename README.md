@@ -2,11 +2,11 @@
 <h2 align="center">Front-end Developer</h2>
 <h3 align="left">Desenvolvedor front-end apaixonado em transformar ideias em interfaces incríveis, sempre disposto a aprender e evoluir.</h3>
 
-- 🌱 Currently learning **React Native, golang**
+- 🌱 Currently learning **React Native, Java**
 
 - 👨‍💻 All of my projects are available at [https://pedromarques391.github.io/portfolio/](https://pedromarques391.github.io/portfolio/)
 
-- 💬 Ask me about **JavaScript, React, TailwindCSS, Golang**
+- 💬 Ask me about **JavaScript, React, TailwindCSS, Java**
 
 <h3 align="left">Skills</h3>
 <p align="left">TYPESCRIPT / REACT.JS / TAILWINDCSS / NEXT.JS / NODE.JS</p>
