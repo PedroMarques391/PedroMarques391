@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pedromarques391.github.io/portfolio/](https://pedromarques391.github.io/portfolio/)
 
-- 💬 Ask me about **JavaScript, React, TailwindCSS, Java**
+- 💬 Ask me about **TypeScript, React, TailwindCSS, Java**
 
 <h3 align="left">Skills</h3>
 <p align="left">TYPESCRIPT / REACT.JS / TAILWINDCSS / NEXT.JS / NODE.JS</p>
