@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning **React Native, Java**
 
-- 👨‍💻 All of my projects are available at [https://pedromarques391.github.io/portfolio/](https://pedromarques391.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://pedromarques391.github.io/portfolio/](https://pedromarques.dev.br)
 
 - 💬 Ask me about **TypeScript, React, TailwindCSS, Java**
 
