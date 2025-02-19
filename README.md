@@ -2,11 +2,11 @@
 <h2 align="center">Front-end Developer</h2>
 <h3 align="left">Desenvolvedor front-end apaixonado em transformar ideias em interfaces incríveis, sempre disposto a aprender e evoluir.</h3>
 
-- 🌱 Currently learning **React Native, Java**
+- 🌱 Currently learning **React Native, Java, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://pedromarques.dev.br](https://pedromarques.dev.br)
 
-- 💬 Ask me about **TypeScript, React, TailwindCSS, Java**
+- 💬 Ask me about **TypeScript, React, TailwindCSS, Flutter**
 
 <h3 align="left">Skills</h3>
 <p align="left">TYPESCRIPT / REACT.JS / TAILWINDCSS / NEXT.JS / NODE.JS</p>
@@ -19,18 +19,26 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
- <h2 style="display: inline_block"><br>
-  <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="pedro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</h2>
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,firebase,html,css,tailwind,git,next,nest,express,postgres,flutter)](https://skillicons.dev)
+</div>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromarques391&show_icons=true&locale=en&layout=compact" alt="pedromarques391" /></p>
+   <img 
+      align="left"
+      src="https://github-readme-stats.vercel.app/api?username=PedroMarques391&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" 
+      alt="ilustração do status do github"
+      style="max-width: 48%;"
+   />
+   <img 
+      align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarques391&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" 
+      alt="Linguagens mais usadas"
+      style="max-width: 48%;"
+   />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromarques391&show_icons=true&locale=en" alt="pedromarques391" /></p>
+
+
