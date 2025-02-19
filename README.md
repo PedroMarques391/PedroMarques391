@@ -26,19 +26,20 @@
 </div>
 
 
-
+<div align="center">
    <img 
-      align="left"
+      align="center"
       src="https://github-readme-stats.vercel.app/api?username=PedroMarques391&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" 
       alt="ilustração do status do github"
       style="max-width: 48%;"
    />
    <img 
-      align="right"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarques391&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" 
       alt="Linguagens mais usadas"
       style="max-width: 48%;"
    />
+</div>
 
 
 
