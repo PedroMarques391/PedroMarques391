@@ -1,12 +1,39 @@
-<h1 align="center">Hi 👋, I'm Pedro Marques</h1>
-<h2 align="center">Front-end Developer</h2>
-<h3 align="left">Desenvolvedor front-end apaixonado em transformar ideias em interfaces incríveis, sempre disposto a aprender e evoluir.</h3>
 
+<div align="center">
+
+<a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBpaXZheDA1N3QyeGYyZmRnaTdtYzNqMzN5eGh4ZXRvZDdsdTVldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jFNTzpnwahSwg/giphy.gif" target="_blank">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBpaXZheDA1N3QyeGYyZmRnaTdtYzNqMzN5eGh4ZXRvZDdsdTVldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jFNTzpnwahSwg/giphy.gif" alt="GIF Animado" style="width: 100%; height: auto;"/>
+</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F77B13&center=true&vCenter=true&width=800&lines=I%C2%B4m+Pedro+Marques;Desenvolvedor+Front-end+%26+Mobile;De+c%C3%B3digo+em+c%C3%B3digo%2C+transformo+ideias+em+realidade.;Crescendo+e+aprendendo+a+cada+desafio." alt="Typing SVG" /></a>
+<hr>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PedroMarques391&label=Profile%20views&color=orange&style=flat" alt="PedroMarques391" />
+  <a href="https://www.instagram.com/pedromarques.py" target="_blank">
+    <img src="https://img.shields.io/badge/pedromarques.py-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram - Pedro Marques" />
+  </a>
+  <a href="https://pedromarques.dev.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-white?style=flat&logo=github&logoColor=black" alt="Portfólio - Pedro Marques" />
+  </a>
+  <a href="https://wa.me/91984044082" target="_blank">
+    <img src="https://img.shields.io/badge/Fale%20Comigo-%2300A884?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp - Contato" />
+  </a>
+</div>
+<h3 align="center"> 🎉 Você é o visitante numero:
+  <a href="https://github.com/PedroMarques391">
+    <img src="https://count.getloli.com/@:PedroMarques391?theme=original-old" alt="PedroMarques391" />
+  </a>
+  Obrigado por aparecer. 😍 
+</h3>
+
+<br/>
+
+<div align="left">
 - 🌱 Currently learning **React Native, Java, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://pedromarques.dev.br](https://pedromarques.dev.br)
 
 - 💬 Ask me about **TypeScript, React, TailwindCSS, Flutter**
+</div>
 
 <h3 align="left">Skills</h3>
 <p align="left">TYPESCRIPT / REACT.JS / TAILWINDCSS / NEXT.JS / NODE.JS</p>
