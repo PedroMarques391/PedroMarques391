@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/Fale%20Comigo-%2300A884?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp - Contato" />
   </a>
 </div>
-<h3 align="center"> 🎉 Você é o visitante numero:
+<h3 align="center"> 🎉 Você é o visitante número: <br>
   <a href="https://github.com/PedroMarques391">
     <img src="https://count.getloli.com/@:PedroMarques391?theme=original-old" alt="PedroMarques391" />
   </a>
-  Obrigado por aparecer. 😍 
+  <br> Obrigado por aparecer. 😍 
 </h3>
 
 <br/>
