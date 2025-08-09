@@ -8,7 +8,7 @@
 <hr>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroMarques391&label=Profile%20views&color=orange&style=flat" alt="PedroMarques391" />
-  <a href="https://www.instagram.com/pedromarques.py" target="_blank">
+  <a href="https://www.instagram.com/pedromarques.dev" target="_blank">
     <img src="https://img.shields.io/badge/pedromarques.py-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram - Pedro Marques" />
   </a>
   <a href="https://pedromarques.dev.br/" target="_blank">
@@ -52,21 +52,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,firebase,html,css,tailwind,git,next,nest,express,postgres,flutter)](https://skillicons.dev)
 </div>
 
-
-<div align="center">
-   <img 
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=PedroMarques391&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" 
-      alt="ilustração do status do github"
-      style="max-width: 48%;"
-   />
-   <img 
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarques391&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" 
-      alt="Linguagens mais usadas"
-      style="max-width: 48%;"
-   />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroMarques391&theme=darcula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarques391&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true)
+ 
 
 
 
