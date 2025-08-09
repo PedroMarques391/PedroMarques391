@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroMarques391&label=Profile%20views&color=orange&style=flat" alt="PedroMarques391" />
   <a href="https://www.instagram.com/pedromarques.dev" target="_blank">
-    <img src="https://img.shields.io/badge/pedromarques.py-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram - Pedro Marques" />
+    <img src="https://img.shields.io/badge/pedromarques.dev-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram - Pedro Marques" />
   </a>
   <a href="https://pedromarques.dev.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-white?style=flat&logo=github&logoColor=black" alt="Portfólio - Pedro Marques" />
