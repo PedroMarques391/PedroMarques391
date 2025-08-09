@@ -28,10 +28,10 @@
 <br/>
 
 <div align="left">
-- 🌱 Currently learning **React Native, Java, Flutter**
+
 
 - 👨‍💻 All of my projects are available at [https://pedromarques.dev.br](https://pedromarques.dev.br)
-
+- 🌱 Currently learning **React Native, Java, Flutter**
 - 💬 Ask me about **TypeScript, React, TailwindCSS, Flutter**
 </div>
 
