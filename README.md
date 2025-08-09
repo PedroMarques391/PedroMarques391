@@ -4,7 +4,7 @@
 <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBpaXZheDA1N3QyeGYyZmRnaTdtYzNqMzN5eGh4ZXRvZDdsdTVldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jFNTzpnwahSwg/giphy.gif" target="_blank">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBpaXZheDA1N3QyeGYyZmRnaTdtYzNqMzN5eGh4ZXRvZDdsdTVldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jFNTzpnwahSwg/giphy.gif" alt="GIF Animado" style="width: 100%; height: auto;"/>
 </a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F77B13&center=true&vCenter=true&width=800&lines=I%C2%B4m+Pedro+Marques;Desenvolvedor+Front-end+%26+Mobile;De+c%C3%B3digo+em+c%C3%B3digo%2C+transformo+ideias+em+realidade.;Crescendo+e+aprendendo+a+cada+desafio." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F77B13&center=true&vCenter=true&width=800&lines=I%C2%B4m+Pedro+Marques;Desenvolvedor+FullStack;De+c%C3%B3digo+em+c%C3%B3digo%2C+transformo+ideias+em+realidade.;Crescendo+e+aprendendo+a+cada+desafio." alt="Typing SVG" /></a>
 <hr>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroMarques391&label=Profile%20views&color=orange&style=flat" alt="PedroMarques391" />
