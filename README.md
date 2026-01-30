@@ -19,12 +19,12 @@
 
 ---
 
-### 🚀 Sobre mim & Foco
+### Sobre mim & Foco
 Sou **Desenvolvedor Full Stack** focado em **Arquitetura de Software**. Construo soluções escaláveis em **Web e Mobile**, priorizando código limpo e visão sistêmica do produto. Atualmente, aprofundando estudos em **Java** e **Svelte**.
 
 ---
 
-### 💻 Tech Stack Principal
+### Tech Stack Principal
 
 <div align="center">
 
